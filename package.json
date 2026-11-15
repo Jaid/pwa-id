@@ -2,6 +2,16 @@
   "name": "pwa-id",
   "version": "0.1.0",
   "type": "module",
+  "description": "compute the Chromium PWA app ID from a URL and an optional Web App Manifest",
+  "keywords": [
+    "app id",
+    "chrome",
+    "chromium",
+    "manifest",
+    "progressive web app",
+    "pwa",
+    "web app manifest"
+  ],
   "funding": "https://github.com/sponsors/Jaid",
   "license": "MIT",
   "repository": {
