@@ -2,6 +2,7 @@
   "name": "pwa-id",
   "version": "0.1.0",
   "type": "module",
+  "description": "Calculate Chromium PWA app IDs from URLs and web app manifests",
   "funding": "https://github.com/sponsors/Jaid",
   "license": "MIT",
   "repository": {
