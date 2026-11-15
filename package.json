@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Jaid/pwa-id.git"
+    "url": "git+https://github.com/Jaid/pwa-id.git"
   },
   "scripts": {
     "test": "bun test --max-concurrency 1"
